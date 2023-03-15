@@ -1,5 +1,8 @@
+import "./App.css";
+import Dashboard from "./Components/Dashboard/Dashboard";
+
 const App = () => {
-  return <div>App</div>;
+  return <Dashboard />;
 };
 
 export default App;
