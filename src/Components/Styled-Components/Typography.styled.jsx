@@ -1,6 +1,6 @@
 import styled from "styled-components";
 
-export const H1 = styled.h1`
+export const H2 = styled.h2`
   color: #d9dde2;
   font-weight: 600;
   font-size: 1.5rem;
